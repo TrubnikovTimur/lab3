@@ -34,7 +34,7 @@
 
                         break;
                     case "5":
-
+                        Console.WriteLine($"Результат: {a} * {b} = " + (a * b));
                         break;
                     case "6":
 
