@@ -37,7 +37,7 @@
 
                         break;
                     case "6":
-
+                        Console.WriteLine($"Результат: {a} / {b} = " + (a / b));
                         break;
                 }
             }
