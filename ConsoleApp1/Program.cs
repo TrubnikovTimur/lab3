@@ -28,7 +28,7 @@
 
                         break;
                     case "3":
-
+                        Console.WriteLine($"Результат: {a} + {b} = " + (a + b));
                         break;
                     case "4":
 
