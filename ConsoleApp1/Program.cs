@@ -31,7 +31,7 @@
 
                         break;
                     case "4":
-
+                        Console.WriteLine($"Результат: {a} - {b} = " + (a - b));
                         break;
                     case "5":
 
